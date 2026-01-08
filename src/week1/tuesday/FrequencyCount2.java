@@ -1,3 +1,4 @@
+package src.week1.tuesday;
 //FrequencyCount 2 is my second attempt at counting the frequency of words in a sentence using a hashmap
 //My first implementation was overcomplicated because java has a .split() method that can split a string into an array
 

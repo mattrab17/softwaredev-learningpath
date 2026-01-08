@@ -1,3 +1,4 @@
+package src.week1.tuesday;
 import java.util.HashMap;
 
 public class hashmap {

@@ -1,3 +1,4 @@
+package src.week1.tuesday;
 public class warmup{
   public static void main(String[]args) {
 

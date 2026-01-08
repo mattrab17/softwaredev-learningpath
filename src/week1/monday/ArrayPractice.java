@@ -1,4 +1,4 @@
-
+package src.week1.monday;
 
 public class ArrayPractice{
   public static void main(String[]args){

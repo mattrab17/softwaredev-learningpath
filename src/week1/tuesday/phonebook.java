@@ -1,3 +1,4 @@
+package src.week1.tuesday;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -17,6 +18,7 @@ public class phonebook {
     System.out.println("Whose phone number do you want?");
     String name = scan.nextLine();
 
+    scan.close();
     if(map.containsKey(name)) {
       System.out.println(name + "'s phone number is: " + map.get(name));
     } else { // in case the name doesn't exist
