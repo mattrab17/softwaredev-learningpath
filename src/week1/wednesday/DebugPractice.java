@@ -1,4 +1,4 @@
-package src.Week2;
+package src.week1.wednesday;
 import java.util.HashMap;
 
 public class DebugPractice {
